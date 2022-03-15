@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927616197075",
+    "project_id": "flavor-prod-543fc",
+    "storage_bucket": "flavor-prod-543fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927616197075:android:46bd9ae3366b676618cf26",
+        "android_client_info": {
+          "package_name": "com.vetevo.flavors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927616197075-dg6h39pd51vbuasp4ugehqdl5j7fgm2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEc8b28-JOFY9nO1DLzoJPddXshOEVN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927616197075-dg6h39pd51vbuasp4ugehqdl5j7fgm2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
