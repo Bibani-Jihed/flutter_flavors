@@ -60,7 +60,8 @@ android {
         dev {
             dimension "flavor-type"
             resValue "string", "app_name", "Dev Flavor" 
-            applicationIdSuffix ".dev" //Add Suffix to the App bundle ID  exp.: com.vetevo.flavors.dev
+            //Add Suffix to the App bundle ID  exp.: com.vetevo.flavors.dev
+            applicationIdSuffix ".dev" 
             versionNameSuffix "--dev"
         }
     }
