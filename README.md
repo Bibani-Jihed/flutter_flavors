@@ -28,11 +28,11 @@ This project demonstrates how to use Flutter Flavors effectively. Follow these s
 
 1. **Clone the Repository:**
    ```shell
-   git clone https://github.com/yourusername/flutter-flavors-demo.git
+   git clone https://github.com/Bibani-Jihed/flutter_flavors.git
    
 2. Navigate to the Project Directory:
    ```shell
-   cd flutter-flavors-demo
+   cd flutter-flavors
 3. Install Dependencies:
    ```shell
    flutter pub get
