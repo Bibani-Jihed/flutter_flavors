@@ -1,7 +1,5 @@
 # Flutter Flavors Demo
 
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
-
 ## What are Flutter Flavors?
 
 In the context of a Flutter project, "Flavors" refer to the ability to create multiple variants of your app, each tailored for a specific environment or purpose. Think of them as configurations for different target audiences, such as development, testing, staging, and production. Flutter Flavors allow you to have different app behaviors, features, and branding without duplicating your codebase.
