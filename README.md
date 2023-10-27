@@ -21,3 +21,28 @@ Flutter Flavors are essential for several reasons:
 ## How to Use Flutter Flavors
 
 This project demonstrates how to use Flutter Flavors effectively.
+
+## 3. How to Use Flutter Flavors
+
+This project demonstrates how to use Flutter Flavors effectively. Follow these steps to set up and run different flavors of the app:
+
+1. **Clone the Repository:**
+   ```shell
+   git clone https://github.com/yourusername/flutter-flavors-demo.git
+   
+2. Navigate to the Project Directory:
+   ```shell
+   cd flutter-flavors-demo
+3. Install Dependencies:
+   ```shell
+   flutter pub get
+4. Run the App with a Flavor:
+   To run a specific flavor, use the following command:
+   ```shell
+   flutter run --flavor <flavor_name> -t lib/main_<flavor_name>.dart
+   
+  Replace <flavor_name> with the name of the flavor you want to run (e.g., development, staging, production).
+5. Enjoy the Different Flavors:
+   Explore how each flavor of the app behaves differently, such as using different API endpoints, themes, and features.
+
+  
